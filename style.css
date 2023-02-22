@@ -1,0 +1,11 @@
+#dynamic{
+    height: 50px;
+    width: 100vh;
+    background-color: blue;
+}
+.page{
+    height: 3000px;
+}
+.newClass{
+    position: fixed;
+}
